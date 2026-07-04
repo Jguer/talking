@@ -1,0 +1,2 @@
+- [PDF](https://github.com/Jguer/talking/blob/main/2026/2026-07-04-RAISE-Hackathon/How-Grafana-helps-you-build-faster.pdf)
+- [Conference](https://www.raisesummit.com/fr/hackathon)
