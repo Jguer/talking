@@ -1,0 +1,2 @@
+- [PDF](https://github.com/Jguer/talking/blob/main/2025/2025-04-04-KubeconEU-London/migrating-access-control-to-openfga.pdf)
+- [Conference](https://kccnceu2025.sched.com/event/1txIJ/from-chaos-to-control-migrating-access-control-to-openfga-in-a-multi-tenant-world-jo-guerreiro-grafana-labs-poovamraj-thanganadar-thiagarajan-okta)
